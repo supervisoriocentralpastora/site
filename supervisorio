@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>PROYECTO HTML5</title>
+	<LINK REL="STYLESHEET" TYPE="TEXT/CSS" HREF="ESTILOS.CSS">	
+	<META CHARSERT="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=0.5"/>
+</head>
+	<body>
+		<div id="contenedores">
+		<header>
+			<img src="imagenes/PRINCIPAL.jpg">
+		</header>
+	</body>
+</html>
